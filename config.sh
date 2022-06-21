@@ -20,7 +20,7 @@ export OUTPUT="OrangeFox*.zip"
 export KERNEL_SOURCE="https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/sweet-r-oss"
 #export PLATFORM="sm6150" # Leave it commented if you want to clone the kernel to kernel/$OEM/$DEVICE
 
-#dummy line
+#dummy line for triggers
 # Extra Command
 export EXTRA_CMD="git clone https://github.com/OrangeFoxRecovery/Avatar.git misc"
 
