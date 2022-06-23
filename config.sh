@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# dummy line 
+#help pls
 
 # Device
 export FOX_BRANCH="fox_12.1"
