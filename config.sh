@@ -3,7 +3,7 @@
 # dummy line 
 
 # Device
-export FOX_BRANCH="fox_11.0"
+export FOX_BRANCH="fox_12.1"
 export DT_LINK="https://github.com/nebrassy/device_xiaomi_sweet-TWRP -b android-12.1"
 # export DT_LINK="https://github.com/CherishOS-Devices/device_xiaomi_sweet -b cherish"
 
