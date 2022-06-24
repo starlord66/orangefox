@@ -4,10 +4,9 @@
 
 # Device
 export FOX_BRANCH="fox_12.1"
-export DT_LINK="https://github.com/nebrassy/device_xiaomi_sweet-TWRP -b android-12.1"
-# export DT_LINK="https://github.com/CherishOS-Devices/device_xiaomi_sweet -b cherish"
+export DT_LINK="https://github.com/starlord66/device_xiaomi_surya_twrp -b android-12.1"
 
-export DEVICE="sweet"
+export DEVICE="surya"
 export OEM="xiaomi"
 
 # Build Target
